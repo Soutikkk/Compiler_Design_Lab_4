@@ -139,7 +139,7 @@ This project helps understand:
 ```text
 Recursive-Descent-Parser/
 │
-├── parser.py
+├── LAB4.py
 └── README.md
 ```
 
